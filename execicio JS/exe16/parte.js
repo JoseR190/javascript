@@ -20,8 +20,7 @@ function inLista(n, l) {
     }
   
 }
-
-
+ 
 
 
 function Adicionar() { 
